@@ -1,0 +1,45 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "CaptureTheFlag",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"attributions": [],
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "24.10",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "CaptureTheFlag",
+			"bIsRoot": true,
+			"bIsPublic": false,
+			"bEnabled": true
+		}
+	],
+	"dependencies": [],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 24,
+			"maxTeamCount": 2,
+			"maxTeamSize": 24,
+			"maxSocialPartySize": 24,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": true,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "ef7efd56-44e2-b3a8-134f-0ba0cdaa48a7",
+		"modules":
+		{
+			"CaptureTheFlag": "845c498e-4cd0-e71a-2bf2-a5854da230e5"
+		}
+	}
+}
